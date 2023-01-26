@@ -1,0 +1,96 @@
+
+.body{
+    background-image : url(./images/code-coding-file-programming-script-flat-line-filled-icon-beautiful-logo-button-over-yellow-background-for-ui-and-ux-website-or-mobile-application-free-vector.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2,
+h3,
+h5
+{
+    color :black;
+    margin-left: 50px;
+    font-style: italic;
+}
+ul{
+    color:black;
+}
+a{
+    color :white;
+}
+img{
+    border : 3px solid black;
+    padding: 1px;
+}
+h1{
+    margin-left: 170px;
+    text-shadow: 2px 0 8px black;
+    color :white;
+    display: inline;
+}
+.lin{
+    display: block;
+    margin-bottom: 8px;
+    /* border: 2px; */
+    /* margin-left: 2px; */
+}
+input{
+    color: black;
+    background-color :rgb(250, 223, 68);
+}
+::placeholder{
+    color: black;
+}
+label{
+    color :rgb(250, 223, 68);
+}
+.button{
+    color: white;
+    background-color: gray;
+    margin-left: 40px;
+}
+select{
+    color: black;
+    background-color: rgb(250, 223, 68);
+}
+ol{
+    color: black;
+}
+.links{
+    display: inline-block;
+    background-color: black;
+    background-position: right;
+    border: 10px;
+    margin-left: 1270px;
+    padding: 4px;
+}
+.form{
+ background-color: black;
+ display: inline-block;
+ width: 20%;
+ height: 100px;
+ margin-left:40%;
+ margin-bottom:20px;
+}
+.name{
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+}
+.code{
+    margin-left: 20px;
+}
+.end{
+    display: block;
+    margin-left: 44%;
+}
+.copy{
+    margin-left: 40%;
+}
+.article{
+    width: 30%;
+}
